@@ -21,7 +21,7 @@ Here is a screenshot of the findings:
 
 ![News for Mars](./Output/Mars_news.png)
 
-we also stored this news in a list, of which you can found a substring here:
+we also stored this news in a list of dictionaries, of which you can found a substring here:
 
 ![News list](./Output/Mars_list.png)
 
