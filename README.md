@@ -23,7 +23,7 @@ Here is a screenshot of the findings:
 
 we also stored this news in a list of dictionaries, of which you can found a substring here:
 
-![News list](./Output/Mars_list.png)
+![News dictionary](./Output/Mars_list.png)
 
 ## Weather in Mars
 
